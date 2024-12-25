@@ -1,9 +1,3 @@
-/*
-Author: Alessandro Vivaldi
-CS470 - LAB#4
-Inspired by google
-*/
-
 #include <iostream>
 #include <netinet/in.h>
 #include <sys/socket.h>
